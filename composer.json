@@ -1,10 +1,10 @@
 {
-  "name": "wearescytale/companies-house-bundle",
+  "name": "capitalise/companies-house-bundle",
   "license": "MIT",
   "description": "Symfony bundle that integrates the companies house rest api",
   "keywords": ["Companies House", "Symfony", "bundle"],
   "type": "symfony-bundle",
-  "homepage": "https://github.com/wearescytale/CompaniesHouseBundle",
+  "homepage": "https://github.com/capitalise/CompaniesHouseBundle",
   "authors": [
     {
       "name": "Eduardo Conceição",
