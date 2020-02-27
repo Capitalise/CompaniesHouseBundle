@@ -177,7 +177,7 @@ class CompanySearch
     /**
      * @return string
      */
-    public function getCompanyStatus(): string
+    public function getCompanyStatus(): ?string
     {
         return $this->companyStatus;
     }
@@ -187,7 +187,7 @@ class CompanySearch
      *
      * @return CompanySearch
      */
-    public function setCompanyStatus(string $companyStatus): CompanySearch
+    public function setCompanyStatus(?string $companyStatus): CompanySearch
     {
         $this->companyStatus = $companyStatus;
 
